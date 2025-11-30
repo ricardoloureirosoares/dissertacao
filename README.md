@@ -34,7 +34,7 @@ Executar → Gera gráficos + CSV
 <img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/media_por_cluster.png" width="450" alt="Médias por Cluster"> <img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png" width="450" alt="Nuvem Palavras">
 
 ## 📚 Dissertação
-**SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.[file:1]
+**SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.
 
 ## 👨‍💻 Autor
 **Ricardo Loureiro Soares**  
