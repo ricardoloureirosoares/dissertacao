@@ -23,7 +23,7 @@ Análise empírica do **NEXUS-EDU** - sistema web para gestão integrada do AEE 
 ## 🚀 Executar (Google Colab - 4min)
 git clone https://github.com/ricardoloureirosoares/dissertacao
 
-Colab → Upload analise/analise-1.py
+Colab → Upload analise/analise1.py
 
 Drive → /MyDrive/analise/ [CSVs]
 
@@ -38,7 +38,7 @@ Executar → Gera gráficos + CSV
 
 ## 👨‍💻 Autor
 **Ricardo Loureiro Soares**  
-Mestrando PPGGTD/UFT | ricardoloureirosoares@gmail.com
+Mestrando PPGGTD/UFT | ricardo.loureiro@uft.edu.br
 
 ## 📈 Resultados (Figuras da Seção 6.2)
 
