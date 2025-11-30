@@ -40,12 +40,6 @@ Executar → Gera gráficos + CSV
 **Ricardo Loureiro Soares**  
 Mestrando PPGGTD/UFT | ricardo.loureiro@uft.edu.br
 
-## 📈 Resultados (Figuras da Seção 6.2)
-
-<img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/media_por_cluster.png" width="450" alt="Médias por Cluster"> <img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png" width="450" alt="Nuvem Palavras">
-
-**Legenda**: Figura 3 (Likert) + Figura 6 (Wordcloud) [file:1]
-
 ## 📚 Dissertação
 **SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.[file:1]
 
