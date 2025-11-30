@@ -41,7 +41,7 @@ Executar → Gera gráficos + CSV
 Mestrando PPGGTD/UFT | ricardo.loureiro@uft.edu.br
 
 ## 📚 Dissertação
-**SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.[file:1]
+**SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.
 
 ## 👨‍💻 Autor
 **Ricardo Loureiro Soares**  
