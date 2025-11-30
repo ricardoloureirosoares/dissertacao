@@ -1,0 +1,41 @@
+Participante_ID,Instituição,Perfil,Questão_ID,Categoria,Texto_Questão,Resposta_Likert
+P001,IFTO,Gestor,Q1,Usabilidade,O sistema NEXUS-EDU é fácil de navegar e usar,4
+P001,IFTO,Gestor,Q2,Usabilidade,A interface está bem organizada e clara,5
+P001,IFTO,Gestor,Q3,Funcionalidade,O módulo de cadastro de estudantes atende às necessidades da escola,4
+P001,IFTO,Gestor,Q4,Funcionalidade,"Os documentos pedagógicos (PEI, PAEE, PDI) são fáceis de preencher",3
+P001,IFTO,Gestor,Q5,Funcionalidade,O dashboard de métricas oferece informações úteis para acompanhamento,5
+P001,IFTO,Gestor,Q6,Comunicação,O sistema facilita a comunicação entre profissionais da escola,4
+P001,IFTO,Gestor,Q7,Comunicação,A participação das famílias pode ser potencializada através do sistema,4
+P001,IFTO,Gestor,Q8,Segurança e Compliance,Confio que o sistema protege adequadamente os dados dos estudantes,5
+P001,IFTO,Gestor,Q9,Impacto Esperado,Este sistema pode contribuir para melhorar a continuidade pedagógica,5
+P001,IFTO,Gestor,Q10,Impacto Esperado,Este sistema tem potencial para reduzir o tempo de documentação administrativa,4
+P002,IFTO,Professor AEE,Q1,Usabilidade,O sistema NEXUS-EDU é fácil de navegar e usar,3
+P002,IFTO,Professor AEE,Q2,Usabilidade,A interface está bem organizada e clara,4
+P002,IFTO,Professor AEE,Q3,Funcionalidade,O módulo de cadastro de estudantes atende às necessidades da escola,4
+P002,IFTO,Professor AEE,Q4,Funcionalidade,"Os documentos pedagógicos (PEI, PAEE, PDI) são fáceis de preencher",2
+P002,IFTO,Professor AEE,Q5,Funcionalidade,O dashboard de métricas oferece informações úteis para acompanhamento,4
+P002,IFTO,Professor AEE,Q6,Comunicação,O sistema facilita a comunicação entre profissionais da escola,3
+P002,IFTO,Professor AEE,Q7,Comunicação,A participação das famílias pode ser potencializada através do sistema,4
+P002,IFTO,Professor AEE,Q8,Segurança e Compliance,Confio que o sistema protege adequadamente os dados dos estudantes,4
+P002,IFTO,Professor AEE,Q9,Impacto Esperado,Este sistema pode contribuir para melhorar a continuidade pedagógica,4
+P002,IFTO,Professor AEE,Q10,Impacto Esperado,Este sistema tem potencial para reduzir o tempo de documentação administrativa,3
+P003,Colégio Estadual Dom Alano,Gestor,Q1,Usabilidade,O sistema NEXUS-EDU é fácil de navegar e usar,5
+P003,Colégio Estadual Dom Alano,Gestor,Q2,Usabilidade,A interface está bem organizada e clara,5
+P003,Colégio Estadual Dom Alano,Gestor,Q3,Funcionalidade,O módulo de cadastro de estudantes atende às necessidades da escola,5
+P003,Colégio Estadual Dom Alano,Gestor,Q4,Funcionalidade,"Os documentos pedagógicos (PEI, PAEE, PDI) são fáceis de preencher",4
+P003,Colégio Estadual Dom Alano,Gestor,Q5,Funcionalidade,O dashboard de métricas oferece informações úteis para acompanhamento,5
+P003,Colégio Estadual Dom Alano,Gestor,Q6,Comunicação,O sistema facilita a comunicação entre profissionais da escola,5
+P003,Colégio Estadual Dom Alano,Gestor,Q7,Comunicação,A participação das famílias pode ser potencializada através do sistema,5
+P003,Colégio Estadual Dom Alano,Gestor,Q8,Segurança e Compliance,Confio que o sistema protege adequadamente os dados dos estudantes,5
+P003,Colégio Estadual Dom Alano,Gestor,Q9,Impacto Esperado,Este sistema pode contribuir para melhorar a continuidade pedagógica,5
+P003,Colégio Estadual Dom Alano,Gestor,Q10,Impacto Esperado,Este sistema tem potencial para reduzir o tempo de documentação administrativa,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q1,Usabilidade,O sistema NEXUS-EDU é fácil de navegar e usar,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q2,Usabilidade,A interface está bem organizada e clara,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q3,Funcionalidade,O módulo de cadastro de estudantes atende às necessidades da escola,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q4,Funcionalidade,"Os documentos pedagógicos (PEI, PAEE, PDI) são fáceis de preencher",3
+P004,Colégio Estadual Dom Alano,Professor AEE,Q5,Funcionalidade,O dashboard de métricas oferece informações úteis para acompanhamento,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q6,Comunicação,O sistema facilita a comunicação entre profissionais da escola,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q7,Comunicação,A participação das famílias pode ser potencializada através do sistema,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q8,Segurança e Compliance,Confio que o sistema protege adequadamente os dados dos estudantes,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q9,Impacto Esperado,Este sistema pode contribuir para melhorar a continuidade pedagógica,4
+P004,Colégio Estadual Dom Alano,Professor AEE,Q10,Impacto Esperado,Este sistema tem potencial para reduzir o tempo de documentação administrativa,4
