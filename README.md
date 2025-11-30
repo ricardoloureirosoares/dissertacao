@@ -30,8 +30,8 @@ Drive → /MyDrive/analise/ [CSVs]
 Executar → Gera gráficos + CSV
 
 ## 📈 Resultados (Figuras da Seção 6.2)
-![Likert](https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/respostas_likert_por_perfil.png)
-![Wordcloud](https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png)
+
+<img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/media_por_cluster.png" width="450" alt="Médias por Cluster"> <img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png" width="450" alt="Nuvem Palavras">
 
 ## 📚 Dissertação
 **SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.[file:1]
@@ -41,8 +41,10 @@ Executar → Gera gráficos + CSV
 Mestrando PPGGTD/UFT | ricardoloureirosoares@gmail.com
 
 ## 📈 Resultados (Figuras da Seção 6.2)
-![Likert](https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/media_por_cluster.png)
-![Wordcloud](https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png)
+
+<img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/media_por_cluster.png" width="450" alt="Médias por Cluster"> <img src="https://raw.githubusercontent.com/ricardoloureirosoares/dissertacao/main/nuvem_palavras_respostas_abertas.png" width="450" alt="Nuvem Palavras">
+
+**Legenda**: Figura 3 (Likert) + Figura 6 (Wordcloud) [file:1]
 
 ## 📚 Dissertação
 **SOARES, Ricardo Loureiro.** *Democratizando a Gestão da Educação Especial através da Governança Digital: NEXUS-EDU*. 2025. Dissertação (Mestrado) - UFT/PPGGTD, Palmas.[file:1]
