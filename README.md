@@ -23,7 +23,7 @@ Análise empírica do **NEXUS-EDU** - sistema web para gestão integrada do AEE 
 ## 🚀 Executar (Google Colab - 4min)
 git clone https://github.com/ricardoloureirosoares/dissertacao
 
-Colab → Upload analise/analise1.py
+Colab → Upload analise/analise.py
 
 Drive → /MyDrive/analise/ [CSVs]
 
